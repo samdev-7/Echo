@@ -1,0 +1,5 @@
+{
+  "BOT_TOKEN": "YOUR_TOKEN_HERE",
+  "APP_ID": "YOUR_DISCORD_APP_ID",
+  "WEB_ENDPOINT": "http://example.com:3000/"
+}

@@ -1,0 +1,2 @@
+Download `vosk-model-en-us-0.22` from [Vosk](https://alphacephei.com/vosk/models), extract and place in this directory.
+The model is excluded from the repository due to its size.

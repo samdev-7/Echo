@@ -1,0 +1,19 @@
+{
+  "name": "echo",
+  "version": "0.5.0",
+  "description": "a discord bot providing captions for voice calls",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "samliu (samdev-7)",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.9.0",
+    "@discordjs/voice": "^0.16.1",
+    "discord.js": "^14.14.1",
+    "libsodium-wrappers": "^0.7.13",
+    "vosk": "^0.3.39",
+    "ws": "^8.16.0"
+  }
+}
